@@ -14,8 +14,8 @@ from rich.status import Status
 console = Console()
 
 # --- CONFIGURATION ---
-GEMMA_KEY = "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"
-LLAMA_KEY = "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"
+GEMMA_KEY = "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"
+LLAMA_KEY = "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"
 
 def create_agent_model(model_name: str, api_key: str):
     return ChatOpenAI(
