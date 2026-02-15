@@ -1,3 +1,4 @@
+## dear hamza , i showed u the code (langraph) it all work fine only the apis got the daily rate limit
 # 📚 Multi-Agent AI Study Planner
 
 An intelligent, self-correcting study plan generator powered by **LangGraph**, **Gemma 3**, and **Llama 3.3**. This system uses a multi-agent architecture to design, schedule, and audit realistic learning roadmaps tailored to your specific time constraints.
